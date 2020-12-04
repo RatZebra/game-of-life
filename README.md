@@ -1,4 +1,4 @@
-# game-of-life
+# Game of Life, a Java implementation
 Junior Year programming project for IB.
 
 This project is a complete implementation of John Conway's cellular automaton, known commonly as the Game of Life. It was made in Java with WindowBuilder.
